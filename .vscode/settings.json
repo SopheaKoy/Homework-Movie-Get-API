@@ -1,0 +1,7 @@
+{
+	"git.ignoreLimitWarning": true,
+	"audioCues.diffLineDeleted": "off",
+	"audioCues.diffLineInserted": "off",
+	"audioCues.diffLineModified": "off",
+	"audioCues.lineHasError": "off"
+}
